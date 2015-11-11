@@ -5,7 +5,7 @@ public class NotenDemo {
 		
 		
 		//Hier kommten die Punkte rein 0 bis 100
-		int punkte = 90;
+		int punkte = 73;
 		
 		//Ausgabe von der Note bzw. wenn eine ungültige Zahl eingegeben wurde
 		System.out.println("Note = " + getNotentext(punkte));
