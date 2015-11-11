@@ -20,7 +20,5 @@ public class WinterreifenpflichtDemo {
 								|| temperatur < 4;
 		}
 		
-		
-		
-		
+			
 	}
